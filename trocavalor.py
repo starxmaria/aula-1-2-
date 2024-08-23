@@ -1,0 +1,1 @@
+#Crie um algoritmo que armazene dois valores distintos (A= 5 E B=10) e efetue a troca dos valores de forma que a variável A passe a possuir o valor da variável B e que a variável B passe a possuir o valor da variável A. Por fim, apresentar os valores trocados. (A = 10 E B = 5)
